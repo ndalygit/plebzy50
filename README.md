@@ -1,7 +1,5 @@
 # Hi there, I'm nick 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plebzy50&show_icons=true&theme=radical)
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
